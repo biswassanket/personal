@@ -1,22 +1,22 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Sounak</strong> Dey
+description: <a href="">Computer Vision Center</a>. Universitat Autonama de Barcelona, Barcelona, Spain.  (+34)93 581 18 28. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Edifici O, Campus UAB</p>
+    <p>08193 Bellaterra, Barcelona </p>
+    <p>Cerdanyola del Valles, Barcelona 08193</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Scholar (Doctoral Fellow) in Computer Science at Computer Vision Center , Universitat Autonoma de Barcelona , Barcelona, Spain. A enthusiastic programmer and a ML/VISION reasearcher. Let's start scrolling and learn more about me. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
